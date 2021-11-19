@@ -25,6 +25,7 @@ lista.place(x=0,y=0)
 
 
 # PREGLEDI
+# EXAMINATIONS
 
 def pregledi():
     novi = Tk()
@@ -415,6 +416,7 @@ def pregledi():
             but4.place(x=620, y=218)
 
 # DODAJ PREGLED
+# ADD EXAMINATION
 
 
     def izbrisi_preg():
@@ -828,7 +830,7 @@ def pregledi():
 
 
 # GLAVNI MENI
-
+# MAIN MENU
 
 
 
@@ -870,6 +872,7 @@ def prvi():
 
 
 # DODAVANJE NOVOG PACIJENTA
+# ADDING NEW PATIENT
 
 def drugi():
     from datetime import date
@@ -920,6 +923,7 @@ def drugi():
     god.grid(row=5,column=1)
 
 # DODAVANJE NOVOG PACIJENTA DA LI JE SVE OK?
+# CHECKING DATA OD NEW PATIENT
 
     def provera():
         lbo_p = lbo.get()
@@ -985,9 +989,6 @@ def drugi():
 
 
 
-# TREBA VIDETI STA SA PREGLEDIMA DA LI IH OVDE DODAVATI ILI NA KOMANDU PREGLEDI !
-# UNOS JE DOBAR SVE FUNKCIONISE JOS STOJI PROBA.XML ZBOG PREGLEDA!
-
 
 
 
@@ -999,6 +1000,7 @@ def drugi():
 
 
 # izmeni podatke pacijenta
+# CHANGE DATA OF EXISTING PATIENT
 def izmeni_podatke():
     selection = lista.curselection()
     if not selection:
