@@ -1,0 +1,26 @@
+<?xml version='1.0'?>
+
+<pacijenti>
+
+<pacijent>
+
+<LBO>11223344551</LBO>
+<Ime>Nenad</Ime>
+<Prezime>Knezevic</Prezime>
+<Datum_rodjenja>04.01.1994</Datum_rodjenja>
+<Pregledi>Pluca</Pregledi>
+
+</pacijent>
+
+<pacijent>
+
+<LBO>45556667221</LBO>
+<Ime>Nina</Ime>
+<Prezime>Banduka</Prezime>
+<Datum_rodjenja>18.10.1996</Datum_rodjenja>
+<Pregledi>Grlo</Pregledi>
+
+
+</pacijent>
+
+</pacijenti>

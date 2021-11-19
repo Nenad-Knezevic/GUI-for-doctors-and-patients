@@ -1,0 +1,22 @@
+<pacijenti>
+
+<pacijent>
+
+<LBO>11223344551</LBO>
+<Ime>Nenad</Ime>
+<Prezime>Knezevic</Prezime>
+<Datum_rodjenja>04.01.1994</Datum_rodjenja>
+<Pregledi>
+<pregled><ID>19</ID><datum>10.07.2019</datum><vrsta_pregleda>pacijent se javio zbog tegoba</vrsta_pregleda><lekar>Branko Kocka</lekar><dijagnoza>virus</dijagnoza><snimak>-</snimak></pregled><pregled><ID>79</ID><datum>06.03.2017</datum><vrsta_pregleda>redovan sistematski</vrsta_pregleda><lekar>Mirko Mirkovic</lekar><dijagnoza>sve u redu</dijagnoza><snimak>-</snimak></pregled></Pregledi>
+
+</pacijent>
+
+<pacijent>
+
+<LBO>45556667221</LBO>
+<Ime>Nina</Ime>
+<Prezime>Banduka</Prezime>
+<Datum_rodjenja>18.10.1996</Datum_rodjenja>
+<Pregledi><pregled><ID>25</ID><datum>10.03.2013</datum><vrsta_pregleda>sistematski</vrsta_pregleda><lekar>Branko Kocka</lekar><dijagnoza>sve u redu</dijagnoza><snimak>-</snimak></pregled></Pregledi>
+</pacijent>
+<pacijent><LBO>12221112343</LBO><Ime>Pero</Ime><Prezime>Peric</Prezime><Datum_rodjenja>03.04.1990</Datum_rodjenja><Pregledi><pregled><ID>84</ID><datum>08.09.2019</datum><vrsta_pregleda>snimanje noge</vrsta_pregleda><lekar>Mirko Mirkovic</lekar><dijagnoza>uganuce</dijagnoza><snimak>C:\Users\Knez\PycharmProjects\Projekti\slike\slika.png</snimak></pregled></Pregledi></pacijent><pacijent><LBO>44567887656</LBO><Ime>Nikola</Ime><Prezime>Kovacevic</Prezime><Datum_rodjenja>04.06.1998</Datum_rodjenja><Pregledi><pregled><ID>82</ID><datum>10.11.2014</datum><vrsta_pregleda>pacijent se oseca lose</vrsta_pregleda><lekar>Mirko Mirkovic</lekar><dijagnoza>grip</dijagnoza><snimak>-</snimak></pregled></Pregledi></pacijent><pacijent><LBO>23443212321</LBO><Ime>Marko</Ime><Prezime>Manojlovic</Prezime><Datum_rodjenja>03.05.1988</Datum_rodjenja><Pregledi><pregled><ID>21</ID><datum>06.03.2018</datum><vrsta_pregleda>Snimanje MRI</vrsta_pregleda><lekar>Mirko Mirkovic</lekar><dijagnoza>Videcemo</dijagnoza><snimak>C:\Users\Knez\PycharmProjects\Projekti\slike\slika.dcm</snimak></pregled></Pregledi></pacijent><pacijent><LBO>99878574837</LBO><Ime>Marinko</Ime><Prezime>Rokvic</Prezime><Datum_rodjenja>10.12.1991</Datum_rodjenja><Pregledi /></pacijent></pacijenti>

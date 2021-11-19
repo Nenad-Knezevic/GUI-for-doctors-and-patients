@@ -1,0 +1,23 @@
+<pacijenti>
+
+<pacijent>
+
+<LBO>11223344551</LBO>
+<Ime>Nenad</Ime>
+<Prezime>Knezevic</Prezime>
+<Datum_rodjenja>04.01.1994</Datum_rodjenja>
+<Pregledi>
+<pregled><ID>10</ID><datum>01.12.2010</datum><vrsta_pregleda>sadsadasdasd</vrsta_pregleda></pregled><pregled>
+<ID>12</ID>
+<datum>12.09.2019</datum>
+<vrsta_pregleda>proba da vidimo da li radi</vrsta_pregleda>
+<lekar>Branko Kocka</lekar>
+<dijagnoza>virus</dijagnoza>
+<snimak>-</snimak>
+</pregled>
+
+</Pregledi>
+
+</pacijent>
+
+</pacijenti>
